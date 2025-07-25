@@ -1,4 +1,4 @@
-## Picount
+### PICOUNT
 
 **Piece** : 조각내다  
 **Count** : 돈을 세다, 관리하다  
