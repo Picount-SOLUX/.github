@@ -6,15 +6,12 @@
 
 ## **💻** 서비스 소개
 
----
 
 ### PICOUNT : Piece + Count
 
 예산을 ‘**조각내어(Piece)**’ ‘**관리하는(Count)**’ 가계부 웹 서비스
 
 ## **📍 기획 의도**
-
----
 
 **PICOUNT는 예산을 카테고리별로 조각내어 시각적으로 관리하고, 감성적인 기록 경험을 통해 소비 습관을 지속할 수 있도록 돕는 웹 기반 가계부입니다. 가계부의 진입장벽을 낮추고, 꾸미는 재미로 사용자가 자발적으로 소비를 돌아보게 만드는 것이 핵심 목표입니다.**
 
@@ -26,8 +23,7 @@
 | Backend | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) |
 | DB | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) |
 | Cloud | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
-
-
+![PICOUNT 아키텍처 다이어그램](<img width="1510" height="1049" alt="Image" src="https://github.com/user-attachments/assets/a9c4f9db-0147-4ac5-b778-88ca5752491b" />)
 
 ## 💙 SOLUX 30기 웹4팀
 - **PM** : 장유진  
