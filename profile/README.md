@@ -40,8 +40,9 @@
 
 ### 1) 예산 조각내기 기능
 
-| <img src="https://github.com/user-attachments/assets/cadaa95e-bb76-45a0-84cf-92826f6f346d" style="height:280px;"> | <img src="https://github.com/user-attachments/assets/5b536d72-292a-4ee7-a6e6-81b3b60a9281" style="height:280px;"> |
-|---|---|
+
+
+<img width="5760" height="3240" alt="p11" src="https://github.com/user-attachments/assets/37020de6-b0ca-40ad-9185-ce0d7acb38b8" />
 
 - 예산을 **카테고리별로 '조각내어' 시각적으로 관리**할 수 있습니다.
 - 각 카테고리별 **남은 예산을 직관적으로 파악**할 수 있어, 똑똑한 소비 설계가 가능합니다.
@@ -53,7 +54,11 @@
 
 ### 2) 이쁜 스킨으로 꾸미는 나만의 소비 공간
 
-<img src="https://github.com/user-attachments/assets/6efee651-0829-4feb-9d49-d44d762cf97c" style="height:280px;" />
+| <img width="5760" height="3240" alt="p20" src="https://github.com/user-attachments/assets/3ccd8c53-3060-4ee6-a716-61b4bca632f6" /> | <img width="5760" height="3240" alt="p23" src="https://github.com/user-attachments/assets/a07da76b-c212-40ad-8e17-15a3f606fcfa" /> |
+|---|---|
+
+
+
 
 - 다이어리처럼 꾸밀 수 있는 **스티커, 테마, 스킨** 기능을 제공합니다.  
 - 꾸미는 과정 자체가 소비 기록을 지속하게 만드는 **감성적 동기부여**가 됩니다.  
@@ -63,7 +68,7 @@
 
 ### 3) 감정 기반 소비 기록 월말 리포트
 
-<img src="https://github.com/user-attachments/assets/128daa25-0145-42d4-a61a-56bbe18548bc" style="height:280px;" />
+<img width="5760" height="3240" alt="p17" src="https://github.com/user-attachments/assets/4be4df62-7cc7-465b-80cb-4ec7633866a5" />
 
 - 월말마다 **카테고리별 소비 요약**, **감정별 지출 통계**, **지출 변화 시각화**를 확인할 수 있습니다.  
 - 감정별 지출 경향을 통해 **나만의 소비 패턴을 돌아보고 설계**할 수 있습니다.  
@@ -77,7 +82,7 @@
 
 | 분류 | 기술 |
 |------|------|
-| Frontend | ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white) |
+| Frontend | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) |
 | Backend | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) |
 | DB | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) |
 | Cloud | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
